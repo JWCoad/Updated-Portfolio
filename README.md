@@ -4,7 +4,7 @@
 
 ### Repo at [Github](https://github.com/JWCoad/Updated-Portfolio)
 
-### Screenshot of page ![Screenshot](tbd)
+### Screenshot of page ![Screenshot](https://github.com/JWCoad/Updated-Portfolio/blob/main/images/screenshotportfolio.JPG)
 
 ### Resources used:
 
@@ -14,4 +14,6 @@
 
 ### [MDN Webdocs](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 
-### [HTML5UP]
+### [HTML5 UP](html5up.net)
+
+### [Unsplash] (https://unsplash.com/)
