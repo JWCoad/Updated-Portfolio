@@ -16,4 +16,4 @@
 
 ### [HTML5 UP](html5up.net)
 
-### [Unsplash] (https://unsplash.com/)
+### [Unsplash](https://unsplash.com/)
